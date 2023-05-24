@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Tom--clock {
+    background-image: url("Mai1.jpg");
+    height: 488px;
+    width: auto;
+    background-size:contain;
+}
+
+.clock {
+    border: 1px solid black;
+    width: fit-content;
+    padding: 5px;
+    background-color: #ffff;
+}
+
+.btnChangeMe {
+    padding: 5px;
+}
+
+.btnTyping {
+    padding: 5px;
+    display: block;
+}
+
+.typing {
+    width: 300px;
+}
